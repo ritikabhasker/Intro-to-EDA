@@ -1,8 +1,6 @@
 # Introduction to Exploratory Data Analysis
 
-Hi Tech Lady Hackathon!
-
-Before we dive into the code, make sure you have **Anaconda** installed. You can download Anaconda [here](https://www.anaconda.com/download/). I'm using Python 2.7 in my code but if you get 3.6, you won't have to make too many changes to the code. 
+Before you dive into the lesson, make sure you have **Anaconda** installed. You can download Anaconda [here](https://www.anaconda.com/download/). I'm using Python 2.7 in my code but if you get 3.6, you won't have to make too many changes to the code. 
 
 Anaconda comes with both Pandas and Jupyter notebook. It also comes with other packages for data science, including statsmodels and scikit-learn. 
 
